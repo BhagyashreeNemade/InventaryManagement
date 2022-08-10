@@ -1,0 +1,42 @@
+{
+    "TypesofRice": [
+        {
+            "name": "Basumati",
+            "weight": 4,
+            "price": 240
+        },
+
+        {
+            "name": "Rice1",
+            "weight": 6,
+            "price": 180
+        }
+    ],
+    "TypesofPulses": [
+        {
+            "name": "Mataki",
+            "weight": 2,
+            "price": 200
+        },
+
+        {
+            "name": "chavali",
+            "weight": 6,
+            "price": 160
+        }
+    ],
+    "TypesofWheats": [
+        {
+            "name": "Hard Red Winter",
+            "weight": 2,
+            "price": 200
+        },
+
+        {
+            "name": "Hard Red Spring",
+            "weight": 6,
+            "price": 160
+        }
+    ]
+
+}
